@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mariellemanlulu
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning cross-platform application development
+- 📫 How to reach me: mariellem016@gmail.com
